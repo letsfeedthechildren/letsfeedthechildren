@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://letsfeedthechildren.github.io/sitemap.xml
