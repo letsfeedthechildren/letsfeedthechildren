@@ -6,22 +6,4 @@
     <priority>1.0</priority>
   </url>
   
-  <url>
-    <loc>https://letsfeedthechildren.github.io/v1.mp4</loc>
-    <lastmod>2026-02-03</lastmod>
-    <priority>1.0</priority>
-  </url>
-  
-  <url>
-    <loc>https://letsfeedthechildren.github.io/v4.mp4</loc>
-    <lastmod>2026-02-03</lastmod>
-    <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>https://letsfeedthechildren.github.io/v5.mp4</loc>
-    <lastmod>2026-02-03</lastmod>
-    <priority>1.0</priority>
-  </url>
-  
 </urlset>
